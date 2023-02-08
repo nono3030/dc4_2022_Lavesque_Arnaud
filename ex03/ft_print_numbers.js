@@ -3,4 +3,4 @@ function displaynumbersminuscule() {
     console.log(alphabet);
   }
   
-  displaynumbersminuscule();
+  displaynumbersminuscule();//chiffre minuscule 0 a 9 du coup
