@@ -6,4 +6,4 @@ function afficherlesignes(n) {
     }
   }
 afficherlesignes(2)
-afficherlesignes(-3)
+
